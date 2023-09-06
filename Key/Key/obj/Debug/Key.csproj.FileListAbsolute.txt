@@ -1,0 +1,8 @@
+C:\Users\Luis Perez\source\repos\Key\Key\bin\Debug\Key.exe.config
+C:\Users\Luis Perez\source\repos\Key\Key\bin\Debug\Key.exe
+C:\Users\Luis Perez\source\repos\Key\Key\bin\Debug\Key.pdb
+C:\Users\Luis Perez\source\repos\Key\Key\obj\Debug\Key.csproj.AssemblyReference.cache
+C:\Users\Luis Perez\source\repos\Key\Key\obj\Debug\Key.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luis Perez\source\repos\Key\Key\obj\Debug\Key.csproj.CoreCompileInputs.cache
+C:\Users\Luis Perez\source\repos\Key\Key\obj\Debug\Key.exe
+C:\Users\Luis Perez\source\repos\Key\Key\obj\Debug\Key.pdb
